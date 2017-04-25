@@ -1,0 +1,1 @@
+A quick template for making games using Python and Pygame (http://www.pygame.org).
